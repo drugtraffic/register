@@ -1,11 +1,11 @@
 {
   "description": "py's website ig",
-  "repo": "https://github.com/drugtraffic/applewtf",
+  "repo": "https://github.com/drugtraffic/applewtf.github.io",
   "owner": {
     "username": "drugtraffic",
     "email": "doraisgaylolol@gmail.com"
   },
   "record": {
-    "CNAME": "https://drugtraffic.github.io/applewtf/"
+    "CNAME": "https://drugtraffic.github.io/applewtf.github.io/"
   }
 }
